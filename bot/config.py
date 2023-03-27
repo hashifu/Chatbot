@@ -1,0 +1,2 @@
+STUID = ""
+PASSWORD = ""

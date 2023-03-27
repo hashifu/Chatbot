@@ -1,0 +1,3 @@
+﻿  bot.cpp
+c:\users\sr\source\repos\bot\bot\bot.cpp(7): fatal error C1083: 无法打开包括文件: “Python.h”: No such file or directory
+  test.cpp

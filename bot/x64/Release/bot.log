@@ -1,0 +1,12 @@
+﻿  bot.cpp
+c:\users\sr\source\repos\bot\bot\bot.cpp(27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\sr\source\repos\bot\bot\bot.cpp(28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\sr\source\repos\bot\bot\bot.cpp(164): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\sr\source\repos\bot\bot\bot.cpp(278): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\sr\source\repos\bot\bot\bot.cpp(365): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  3 of 269 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  bot.vcxproj -> C:\Users\SR\source\repos\bot\x64\Release\bot.exe
